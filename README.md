@@ -74,7 +74,11 @@ RegisterNumber: 212223040157
 
 
 **RTL Schematic**
-![image](https://github.com/Priyanghaofficial/HALF_ADDER_SUBTRACTOR/assets/147121154/a0038fc4-8eb6-4ffd-aae4-5f1904720e50)
+**HALF_ADDER**
+![image](https://github.com/Priyanghaofficial/HALF_ADDER_SUBTRACTOR/assets/147121154/3e888d03-11f3-4fb4-8eb4-c0138da2911f)
+**HALF_SUBTRACTOR**
+![image](https://github.com/Priyanghaofficial/HALF_ADDER_SUBTRACTOR/assets/147121154/8a82e018-93db-459a-a15d-046e6cc75708)
+
 
 **Output/TIMING Waveform**
 **HALF_ADDER**
