@@ -67,8 +67,8 @@ assign D = a ^ b;
   assign Bo = ~a & b;
 endmodule
 
-Developed by: PRIYANGHA G
-RegisterNumber: 212223040157
+Developed by: Pugazhenthi S
+RegisterNumber: 212224240120
 ```
 
 
